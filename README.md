@@ -1,4 +1,4 @@
-# Rabobank Customer STATEMENT PROCESSOR
+# Rabobank CUSTOMER STATEMENT PROCESSOR
 Rabobank receives monthly deliveries of customer statement records. This information is delivered in two formats, CSV and XML. These records need to be validated.
 
 ## Input
