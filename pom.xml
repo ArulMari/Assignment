@@ -32,7 +32,6 @@
 			<artifactId>poi</artifactId>
 			<version>3.12</version>
 		</dependency>
-		<!-- Spring Core -->
 		<dependency>
 			<groupId>org.springframework</groupId>
 			<artifactId>spring-core</artifactId>
